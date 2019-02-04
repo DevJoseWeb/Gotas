@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b06853e-59e0-485d-96ed-46581c430522" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/commom/MensagemAlerta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mensagens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaLista.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaLista.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaPresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaPresenter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cliente/MensagemPendenciaFinanceira.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cliente/MensagemPendenciaFinanceira.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/atendimento_web$All_Features_in____tests__.ic" NAME="All Features in: __tests__ Coverage Results" MODIFIED="1546265946921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Zaal Atendimento" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1220306626">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="12" />
+          <entry key="html" value="1" />
+          <entry key="js" value="173" />
+          <entry key="json" value="7" />
+          <entry key="rnc" value="1" />
+          <entry key="scss" value="2" />
+          <entry key="sql" value="1" />
+          <entry key="ts" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="12" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="173" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SCSS" value="2" />
+          <entry key="Scratch" value="1" />
+          <entry key="TypeScript" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="123" />
+          <entry key="js" value="16662" />
+          <entry key="json" value="15" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="123" />
+          <entry key="JSON" value="15" />
+          <entry key="JavaScript" value="16662" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-489932765">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="62" />
+          <entry key="project.open.time.1" value="13" />
+          <entry key="project.open.time.10" value="15" />
+          <entry key="project.open.time.11" value="9" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.9" value="9" />
+          <entry key="project.opened" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LoadingReducer" value="1" />
+          <entry key="css" value="29" />
+          <entry key="html" value="4" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="469" />
+          <entry key="json" value="12" />
+          <entry key="jsx" value="1" />
+          <entry key="png" value="7" />
+          <entry key="scss" value="3" />
+          <entry key="svg" value="3" />
+          <entry key="ts" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="29" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="8" />
+          <entry key="JSON" value="12" />
+          <entry key="JSX Harmony" value="1" />
+          <entry key="JavaScript" value="470" />
+          <entry key="SCSS" value="3" />
+          <entry key="SVG" value="3" />
+          <entry key="TypeScript" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="656" />
+          <entry key="html" value="19" />
+          <entry key="js" value="30863" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="656" />
+          <entry key="HTML" value="19" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="30863" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="965533561">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaPresenter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaLista.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaInclusaoModal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="130" column="36" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/api/TransferenciaApi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="88" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
+              <folding>
+                <element signature="e#0#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="82" column="69" lean-forward="true" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mensagens.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/cliente/MensagemPendenciaFinanceira.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commom/MensagemAlerta.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resetTimer</find>
+      <find>stopTimer</find>
+      <find>onChangeClienteLabel</find>
+      <find>Tooltip</find>
+      <find>;</find>
+      <find>class</find>
+      <find>input</find>
+      <find>[type=&quot;checkbox&quot;]:not(:checked),</find>
+      <find>selected</find>
+      <find>selection</find>
+      <find>toggleSelectAll</find>
+      <find>react-table</find>
+      <find>!important</find>
+      <find>dataRows</find>
+      <find>popoverStyles</find>
+      <find>toggleAll</find>
+      <find>toggleRenderCheck</find>
+      <find>theme</find>
+      <find>handleToggle</find>
+      <find>selectAll</find>
+      <find>toggleColumn</find>
+      <find>emTransferencia</find>
+      <find>exibirChamado</find>
+      <find>carregarChamadoPorId</find>
+      <find>getNodes</find>
+      <find>toggle</find>
+      <find>document</find>
+      <find>atualiza</find>
+      <find>visibleAlert</find>
+      <find>_tratarResponseTransferenciaPendente</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>acessor</replace>
+      <replace>Header</replace>
+      <replace>accessor</replace>
+      <replace>className</replace>
+      <replace>this.state.chamadoDetalhe</replace>
+      <replace>!important;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/pendenciasetor/PendenciaSetorConclusao.js" />
+        <option value="$PROJECT_DIR$/src/components/pendenciasetor/PendenciaSetorPresenter.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/ClienteDetalhes.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/buscacliente/BuscaCliente.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/buscacliente/makeAndHandleRequest.js" />
+        <option value="$PROJECT_DIR$/src/components/api/ClienteApi.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/buscacliente/BuscaClienteMenuItem.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ChamadoInclusao.js" />
+        <option value="$PROJECT_DIR$/src/components/pendenciasetor/PendenciaSetorInclusao.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/PendenciaFinanceira.test.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/PendenciaFinanceira.spec.js" />
+        <option value="$PROJECT_DIR$/src/__tests__/ProtocoloNaoEncontrado.spec.js" />
+        <option value="$PROJECT_DIR$/src/__tests__/PendenciaFinanceira.spec.js" />
+        <option value="$PROJECT_DIR$/src/components/atendimento/AtendimentoPresenter.js" />
+        <option value="$PROJECT_DIR$/src/components/pendenciasetor/PendenciaSetor.js" />
+        <option value="$PROJECT_DIR$/src/components/atendimento/AtendimentoDetalhes.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/buscachamado/BuscaChamadoAvancado.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/buscachamado/BuscaChamadoPresenter.js" />
+        <option value="$PROJECT_DIR$/src/commom/template/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/ClientePresenter.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/PendenciaFinanceira.js" />
+        <option value="$PROJECT_DIR$/src/commom/template/PageTitles.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ColumnChooser.js" />
+        <option value="$PROJECT_DIR$/src/components/atendimento/PageTitleAtendimento.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/buscacliente/BuscaClienteTypeahead.js" />
+        <option value="$PROJECT_DIR$/src/components/atendimento/teste.css" />
+        <option value="$PROJECT_DIR$/src/components/chamado/teste.css" />
+        <option value="$PROJECT_DIR$/src/commom/template/include/material/css/style.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/commom/template/checkboxStyles.css" />
+        <option value="$PROJECT_DIR$/src/commom/template/removeCheckbox.css" />
+        <option value="$PROJECT_DIR$/src/commom/template/custom.css" />
+        <option value="$PROJECT_DIR$/src/components/chamado/andamento/AndamentoInclusao.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ChamadoListaTable2.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ChamadoTableGroupColumn.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ChamadoLista.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/andamento/AndamentoLista.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ChamadoEdicao.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/ChamadoPresenter.js" />
+        <option value="$PROJECT_DIR$/src/components/atendimento/Atendimento.js" />
+        <option value="$PROJECT_DIR$/src/base.js" />
+        <option value="$PROJECT_DIR$/src/components/atendimento/AtendimentoAbertura.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaEstorno.js" />
+        <option value="$PROJECT_DIR$/src/views/app/PrimaryLayout.js" />
+        <option value="$PROJECT_DIR$/src/commom/template/Menu.js" />
+        <option value="$PROJECT_DIR$/src/commom/MensagemAlerta.js" />
+        <option value="$PROJECT_DIR$/src/mensagens.js" />
+        <option value="$PROJECT_DIR$/src/components/cliente/MensagemPendenciaFinanceira.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaPresenter.js" />
+        <option value="$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaLista.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/Magnific-Popup-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/bootstrap-material-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/bootstrap-treeview-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/chartist-plugin-tooltip-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/dropify/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/dropzone-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/flot/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/holderjs/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/jquery-asColorPicker-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/jquery-steps-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/jquery-wizard-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/jqueryui/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/jsgrid/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/morrisjs/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/select2/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/sidebar-nav/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/tablesaw-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/plugins/typeahead.js-master/package.json" />
+      <path value="$PROJECT_DIR$/src/commom/template/include/assets/plugins/dropzone-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commom" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="pendenciasetor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zaalatendimentowebclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zaalatendimentowebclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="SearchEverywhereHistoryKey" value="pende&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/cliente/MensagemPendenciaFinanceira.js&#10;tab&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoListaTable2.js&#10;aceitar&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js&#10;menu&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/commom/template/Menu.js&#10;atendi&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/atendimento/Atendimento.js&#10;anexo&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoAnexos.js&#10;chamadoe&#9;null&#9;null&#10;andam&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/andamento/AndamentoLista.js&#10;chamadopre&#9;null&#9;null&#10;chamadol&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoLista.js&#10;andamentoin&#9;null&#9;null&#10;base&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/base.js&#10;table&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoListaTable2.js&#10;cham&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/ChamadoLista.js&#10;typ&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/cliente/buscacliente/BuscaClienteTypeahead.js&#10;andame&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/andamento/AndamentoLista.js&#10;Chamali&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/ChamadoLista.js&#10;transpre&#9;null&#9;null&#10;transfere&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/api/TransferenciaApi.js&#10;detalhe&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/cliente/ClienteDetalhes.js&#10;atendimen&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/atendimento/Atendimento.js&#10;pendenc&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/pendenciasetor/PendenciaSetor.js&#10;chamadin&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoInclusao.js&#10;chamadl&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoLista.js&#10;buscaa&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/buscachamado/BuscaChamadoAvancado.js&#10;aber&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/atendimento/AtendimentoAbertura.js&#10;detalh&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/cliente/ClienteDetalhes.js&#10;busca&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/cliente/buscacliente/BuscaClienteTypeahead.js&#10;andamen&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/andamento/AndamentoLista.js&#10;me&#9;FILE&#9;file://C:/projetos/atendimento-web/src/commom/template/Menu.js&#10;transfe&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/transferencia/TransferenciaRecusar.js&#10;penden&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/pendenciasetor/PendenciaSetorPresenter.js&#10;avanca&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/buscachamado/BuscaChamadoAvancado.js&#10;setorin&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/pendenciasetor/PendenciaSetorInclusao.js&#10;inclusa&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/ChamadoInclusao.js&#10;abertura&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/atendimento/AtendimentoAbertura.js&#10;chamadoa&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/buscachamado/BuscaChamadoAvancado.js&#10;chamadoi&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/ChamadoInclusao.js&#10;custo&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/commom/template/custom.css&#10;setor&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/pendenciasetor/PendenciaSetor.js&#10;chamadoin&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoInclusao.js&#10;ta&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoListaTable2.js&#10;inclusa]&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/ChamadoInclusao.js&#10;andament&#9;FILE&#9;file://C:/projetos/atendimento-web/src/components/chamado/andamento/AndamentoLista.js&#10;pagina&#9;null&#9;null&#10;bus&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/buscachamado/BuscaChamadoAvancado.js&#10;presen&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/pendenciasetor/PendenciaSetorPresenter.js&#10;transferea&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js&#10;Chamadol&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/chamado/ChamadoLista.js&#10;deta&#9;FILE&#9;file://D:/projetos/Zaal/zaalatendimentowebclient/src/components/cliente/ClienteDetalhes.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547249854732" />
+    <property name="last_opened_file_path" value="C:/Arquivos Importantes de Estudo/typeahead/react-bootstrap-typeahead" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.23193277" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projetos\Zaal\zaalatendimentowebclient\src\components\atendimento" />
+      <recent name="C:\projetos\atendimento-web\public\assets\images" />
+      <recent name="C:\projetos\atendimento-web\src\commom\template\include\assets\images" />
+      <recent name="C:\projetos\atendimento-web\src" />
+      <recent name="C:\projetos\atendimento-web\src\commom\template\include\assets\plugins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projetos\atendimento-web\src\__tests__" />
+      <recent name="C:\projetos\atendimento-web\spec" />
+      <recent name="C:\projetos\atendimento-web\src\commom\template\include\img" />
+      <recent name="C:\projetos\atendimento-web\src\commom\template\include\material\js" />
+      <recent name="C:\projetos\atendimento-web\src\commom\template\include\material\css\colors" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Npm Start">
+    <configuration name="All Features in: __tests__" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/__tests__" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="atendimento-web" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: __tests__" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test Suite Pendencia Financeira (2)" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/spec/PendenciaFinanceira.spec.js" />
+      <test-names>
+        <test-name value="Test Suite Pendencia Financeira" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test Suite Pendencia Financeira (3)" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/PendenciaFinanceira.spec.js" />
+      <test-names>
+        <test-name value="Test Suite Pendencia Financeira" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test Suite Protocolo não encontrado" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/ProtocoloNaoEncontrado.spec.js" />
+      <test-names>
+        <test-name value="Test Suite Protocolo não encontrado" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Npm Start" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.debug" />
+      <item itemvalue="npm.Npm Start" />
+      <item itemvalue="Jest.Test Suite Pendencia Financeira (2)" />
+      <item itemvalue="Jest.Test Suite Pendencia Financeira (3)" />
+      <item itemvalue="Jest.Test Suite Protocolo não encontrado" />
+      <item itemvalue="npm.test" />
+      <item itemvalue="Cucumber java.All Features in: __tests__" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: __tests__" />
+        <item itemvalue="Jest.Test Suite Pendencia Financeira (3)" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.Test Suite Protocolo não encontrado" />
+        <item itemvalue="Jest.Test Suite Pendencia Financeira (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b06853e-59e0-485d-96ed-46581c430522" name="Default Changelist" comment="" />
+      <created>1538698090860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538698090860</updated>
+      <workItem from="1538698092012" duration="6905000" />
+      <workItem from="1538737102535" duration="331000" />
+      <workItem from="1538737517741" duration="26039000" />
+      <workItem from="1538996425919" duration="24169000" />
+      <workItem from="1539082366398" duration="27185000" />
+      <workItem from="1539169119262" duration="26369000" />
+      <workItem from="1539255127460" duration="23155000" />
+      <workItem from="1539601538286" duration="28526000" />
+      <workItem from="1539688087008" duration="20216000" />
+      <workItem from="1539718150325" duration="6609000" />
+      <workItem from="1539978066642" duration="4693000" />
+      <workItem from="1540236774235" duration="6075000" />
+      <workItem from="1540496418185" duration="253000" />
+      <workItem from="1540496692085" duration="4441000" />
+      <workItem from="1540576335567" duration="9898000" />
+      <workItem from="1540831864742" duration="9119000" />
+      <workItem from="1540916865194" duration="12253000" />
+      <workItem from="1541003663980" duration="12525000" />
+      <workItem from="1541089663830" duration="13678000" />
+      <workItem from="1541430637964" duration="5958000" />
+      <workItem from="1541605489007" duration="13910000" />
+      <workItem from="1541770881081" duration="357000" />
+      <workItem from="1541793214964" duration="217000" />
+      <workItem from="1542211403794" duration="13538000" />
+      <workItem from="1542384600792" duration="14555000" />
+      <workItem from="1542641412718" duration="7448000" />
+      <workItem from="1542815035299" duration="2033000" />
+      <workItem from="1542817545099" duration="558000" />
+      <workItem from="1542818144219" duration="907000" />
+      <workItem from="1542821016946" duration="5211000" />
+      <workItem from="1542900805866" duration="12679000" />
+      <workItem from="1542988173086" duration="10653000" />
+      <workItem from="1543246438740" duration="1574000" />
+      <workItem from="1543329049889" duration="1454000" />
+      <workItem from="1543330769484" duration="14470000" />
+      <workItem from="1543413137243" duration="563000" />
+      <workItem from="1543419287696" duration="10691000" />
+      <workItem from="1543433898453" duration="1953000" />
+      <workItem from="1543494437880" duration="225000" />
+      <workItem from="1543495218086" duration="43000" />
+      <workItem from="1543499431045" duration="600000" />
+      <workItem from="1543967912787" duration="4028000" />
+      <workItem from="1544004707319" duration="762000" />
+      <workItem from="1544016246969" duration="607000" />
+      <workItem from="1544022106555" duration="4464000" />
+      <workItem from="1544112596697" duration="11952000" />
+      <workItem from="1544140463875" duration="3300000" />
+      <workItem from="1544188193688" duration="598000" />
+      <workItem from="1544437559303" duration="859000" />
+      <workItem from="1544438453645" duration="22671000" />
+      <workItem from="1544522904487" duration="3423000" />
+      <workItem from="1544629592132" duration="11682000" />
+      <workItem from="1544655817636" duration="4225000" />
+      <workItem from="1544695620983" duration="876000" />
+      <workItem from="1544696574340" duration="14000" />
+      <workItem from="1544696599102" duration="12232000" />
+      <workItem from="1544715170336" duration="117000" />
+      <workItem from="1544715386922" duration="10359000" />
+      <workItem from="1544782954160" duration="194000" />
+      <workItem from="1544783160991" duration="9487000" />
+      <workItem from="1544802601502" duration="37000" />
+      <workItem from="1544802662016" duration="6036000" />
+      <workItem from="1544958490252" duration="4090000" />
+      <workItem from="1545041632351" duration="108000" />
+      <workItem from="1545041776958" duration="11152000" />
+      <workItem from="1545059839824" duration="551000" />
+      <workItem from="1545060479791" duration="15323000" />
+      <workItem from="1545128380258" duration="885000" />
+      <workItem from="1545129801365" duration="10044000" />
+      <workItem from="1545147936070" duration="328000" />
+      <workItem from="1545148313952" duration="5515000" />
+      <workItem from="1545183816709" duration="2920000" />
+      <workItem from="1545259249316" duration="7395000" />
+      <workItem from="1545513496764" duration="8526000" />
+      <workItem from="1545559871041" duration="5404000" />
+      <workItem from="1545646168335" duration="10496000" />
+      <workItem from="1545906444111" duration="3751000" />
+      <workItem from="1545924532357" duration="1984000" />
+      <workItem from="1545991002883" duration="19197000" />
+      <workItem from="1546169225203" duration="9198000" />
+      <workItem from="1546276584070" duration="4936000" />
+      <workItem from="1546442071297" duration="12767000" />
+      <workItem from="1546464649268" duration="10437000" />
+      <workItem from="1546509408628" duration="10553000" />
+      <workItem from="1546530373442" duration="712000" />
+      <workItem from="1546551028089" duration="5861000" />
+      <workItem from="1546638154794" duration="8699000" />
+      <workItem from="1546707916339" duration="5721000" />
+      <workItem from="1546903442087" duration="6528000" />
+      <workItem from="1546985468520" duration="8232000" />
+      <workItem from="1547246439815" duration="3315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_Suite_Protocolo_não_encontrado - 2018.12.31 at 11h 40m 55s.xml">
+      <configuration name="Test Suite Protocolo não encontrado" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Protocolo_não_encontrado - 2018.12.31 at 11h 41m 03s.xml">
+      <configuration name="Test Suite Protocolo não encontrado" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 09m 51s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 10m 11s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 11m 26s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 11m 35s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 14m 37s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 15m 00s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 16m 27s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Test_Suite_Pendencia_Financeira_(3) - 2018.12.31 at 12h 17m 39s.xml">
+      <configuration name="Test Suite Pendencia Financeira (3)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="742779000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973913" visible="true" weight="0.23400854" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.5026087" side_tool="true" weight="0.20042644" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49871466" weight="0.312026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35861322" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891247" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32891247" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25568798" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012854" side_tool="true" weight="0.33023873" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891247" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32942432" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32969153" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973913" visible="true" weight="0.22654584" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.5026087" side_tool="true" weight="0.20042644" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49871466" visible="true" weight="0.312026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35941646" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891247" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32891247" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25568798" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012854" side_tool="true" weight="0.33023873" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891247" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32942432" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32969153" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.props.lista</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-bootstrap-typeahead/css/Typeahead.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="8" column="18" lean-forward="true" selection-end-line="256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/teste.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/cliente/buscacliente/BuscaClienteTypeahead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/include/material/css/colors/blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="604" column="16" selection-start-line="604" selection-start-column="16" selection-end-line="604" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/checkboxStyles.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-table/lib/hoc/selectTable/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-table/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/dependencies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/include/material/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152790">
+          <caret line="6945" selection-start-line="6945" selection-end-line="6950" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="633" column="1" selection-start-line="633" selection-start-column="1" selection-end-line="633" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/removeCheckbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ColumnChooser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/styles/withStyles.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/styles/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/styles/withTheme.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/FormControlLabel/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="1869" column="14" selection-start-line="1869" selection-start-column="14" selection-end-line="1869" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/Checkbox/Checkbox.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/FormControlLabel/FormControlLabel.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ChamadoTableGroupColumn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/andamento/AndamentoInclusao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ChamadoLista.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="162" column="17" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/andamento/AndamentoLista.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/cliente/PendenciaFinanceira.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ChamadoPresenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="284" column="30" selection-start-line="284" selection-start-column="30" selection-end-line="284" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ChamadoEdicao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/atendimento/AtendimentoAbertura.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10164">
+          <caret line="484" column="61" selection-start-line="484" selection-start-column="56" selection-end-line="484" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/atendimento/Atendimento.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6820">
+          <caret line="341" column="10" selection-start-line="341" selection-start-column="10" selection-end-line="341" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaEstorno.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/app/AuthorizedRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/app/PrimaryLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ChamadoAnexos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4026">
+          <caret line="191" column="42" selection-start-line="191" selection-start-column="42" selection-end-line="191" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/template/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="57" column="39" lean-forward="true" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/ChamadoListaTable2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="480" lean-forward="true" selection-start-line="475" selection-start-column="18" selection-end-line="480" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/reactstrap/src/Alert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1176">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__tests__/PendenciaFinanceira.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commom/MensagemAlerta.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/cliente/MensagemPendenciaFinanceira.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mensagens.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="82" column="69" lean-forward="true" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaInclusaoModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="130" column="36" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/api/TransferenciaApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="88" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaAceitarRecusar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaPresenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/chamado/transferencia/TransferenciaLista.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23193277" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23193277" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23193277" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23193277" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atendimento-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23193277" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23193277" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

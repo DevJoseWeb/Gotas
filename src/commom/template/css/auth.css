@@ -1,0 +1,248 @@
+.background-zaal {
+    display: table;
+    width: 100%;
+    height: 100vh;
+    padding: 100px 0;
+    background: url('../../template/include/img/fundo-zaal.png') no-repeat bottom center scroll;
+    background-position: 30% 45%;
+    background-size: cover;
+}
+
+.transp-lg {
+  border-radius: 10px;  
+  height: 100%;
+  background: linear-gradient(to bottom, #012147 0%, #ffffff 100%);
+  transition: opacity 0.1s, transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25);
+  transform: scale(1);
+}
+
+#senha::placeholder {
+    color: #fff;
+}
+
+#senha {
+    color: #fff;
+    text-align: center;
+    /* font-weight: bold; */
+}
+
+#usuario::placeholder {
+    color: #fff;
+}
+
+#usuario {
+    color: #fff;
+    text-align: center;
+    /* font-weight: bold; */
+}
+
+#cpf::placeholder {
+    color: #fff;
+}
+
+#cpf {
+    color: #fff;
+    text-align: center;
+    /* font-weight: bold; */
+}
+
+#email::placeholder {
+    color: #fff;
+}
+
+#email {
+    color: #fff;
+    text-align: center;
+    /* font-weight: bold; */
+}
+
+.position-auth{
+    position: fixed;
+    margin: 0 auto;
+    top: 35%;
+    left: 50%;
+    height: 30em;
+    margin-top: -9em;
+    margin-left: -13em;
+    background: rgba(130,130,130,.3);
+    border: 1px solid;
+    border-top-color: rgba(255,255,255,.4);
+    border-left-color: rgba(255,255,255,.4);
+    border-bottom-color: rgba(60,60,60,.4);
+    border-right-color: rgba(60,60,60,.4);
+}
+
+.btn-login {
+    filter:alpha(opacity=50);
+    opacity: 0.5;
+    -moz-opacity:0.9;
+    -webkit-opacity:0.9;
+    border-color: #88cef7;
+    color: #012147;
+}
+
+.btn-login:hover {
+    background: #012147;
+    border-color: #012147;
+}
+
+.btn-login:focus {
+    background: #012147;
+    border-color: #012147;
+}
+
+.inputWithIcon input[type=text] {
+    padding-left: 40px;
+}
+
+.inputWithIcon input[type=email] {
+    padding-left: 40px;
+}
+
+.inputWithIcon input[type=password] {
+    padding-left: 40px;
+}
+
+.inputWithIcon {
+    position: relative;
+}
+
+.inputWithIcon i {
+    position: absolute;
+    left: 0;
+    top: 4px;
+    padding: 9px 8px;
+    color: #fff;
+    transition: .3s;
+}
+
+.inputWithIcon input[type=text]:focus + i {
+    color: #88cef7;
+}
+
+.inputWithIcon input[type=password]:focus + i {
+    color:  #88cef7;
+}
+
+.input-userpass:focus {
+    background-image: linear-gradient(#88cef7, #009efb), linear-gradient(#d9d9d9, #d9d9d9) !important;
+}
+
+.link-recover {
+    color: #fff;
+    cursor: pointer;
+}
+
+.link-recover:hover {
+    color: #88cef7;
+}
+
+.caption-inf {
+    position: fixed;
+    font-weight: bold;
+    width: 10%;
+    margin: 0 auto;
+    top: 31%;
+    left: 50%;
+    height: 2em;
+    margin-top: -9em;
+    margin-left: -13em;
+    background: rgba(130,130,130,.3);
+    border: 1px solid;
+    border-top-color: rgba(255,255,255,.4);
+    border-left-color: rgba(255,255,255,.4);
+    border-bottom-color: rgba(60,60,60,.4);
+    border-right-color: rgba(60,60,60,.4);
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;  
+    border-right-color: #fff;
+    border-left-color: #fff;
+    border-top-color: #fff;
+    transition: opacity 0.1s, transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25);
+    transform: scale(1);
+}
+
+.size-img-zaal {
+    height: 80px; 
+}
+
+.label-float{
+    position: relative;
+    padding-top: 13px;
+  }
+  
+  .label-float input{
+    border: 1px solid #fff;
+    background: rgba(196, 196, 196, 0.3);
+    color: #fff;
+    border-radius: 5px;
+    outline: none;
+    min-width: 100%;
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 16px;
+    transition: all .1s linear;
+    -webkit-transition: all .1s linear;
+    -moz-transition: all .1s linear;
+    -webkit-appearance:none;
+  }
+  
+  .label-float input::placeholder{
+    color:transparent;
+  }
+  
+  .label-float label{
+    pointer-events: none;
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 15px;
+    transition: all .1s linear;
+    -webkit-transition: all .1s linear;
+    -moz-transition: all .1s linear;
+    color: #fff;
+    padding: 3px;
+    box-sizing: border-box;
+  }
+  
+  .label-float input:focus + label {
+    background-image: rgba(196, 196, 196, 0.3);
+    top: -15px !important;
+    margin-left: -17px !important;
+  }
+
+  .label-float input:required:invalid + label{
+    color: red;
+  }
+
+  .label-float input:focus:required:invalid{
+    border: 2px solid red;
+  }
+
+  .label-float input:required:invalid + label:before{
+    content: '*';
+  }
+  
+  .label-float input:focus + label,
+  .label-float input:not(:placeholder-shown) + label{
+    font-size: 13px;
+    top: 0;
+    top: -7px !important;
+    margin-left: -17px !important;
+    color: #fff;
+  }
+
+  .recuperar-dados {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      font-weight: bold;
+      padding: 0 25px;
+      color: #fff;
+      background: rgba(130,130,130,.3);
+      border: 1px solid;
+      border-top-color: rgba(255,255,255,.4);
+      border-left-color: rgba(255,255,255,.4);
+      border-bottom-color: rgba(60,60,60,.4);
+      border-right-color: rgba(60,60,60,.4);
+  }

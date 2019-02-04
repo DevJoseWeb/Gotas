@@ -1,0 +1,702 @@
+/* No Devices */
+
+@media only screen and (min-width:960px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 71% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+}
+
+@media only screen and (min-width:1024px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 73% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+
+    .caption-inf {
+        width: 16%;
+        margin: 0 auto;
+        top: 29.8%;
+        left: 50%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+}
+
+@media only screen and (min-width:1300px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 77% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 79% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+
+    .caption-inf {
+        width: 15%;
+        margin: 0 auto;
+        top: 31%;
+        left: 50%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+}
+
+@media only screen and (min-width:1500px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 81% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+}
+
+@media only screen and (min-width:1600px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 82% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+}
+
+@media only screen and (min-width:2000px) {
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 87% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+
+    .caption-inf {
+        width: 10%;
+        margin: 0 auto;
+        top: 29.8%;
+        left: 50%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+}
+
+/* Device */
+
+@media only screen 
+    and (device-width: 320px) 
+    and (device-height: 548px) {
+
+    .position-auth{
+        top: 35%;
+        left: 70%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .size-img-zaal {
+        height: 68px !important; 
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media only screen 
+    and (device-width: 375px) 
+    and (device-height: 548px) {
+    .position-auth{
+        top: 35%;
+        left: 60%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 50%;
+        top: 34.5%;
+        left: 60%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+    
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media only screen 
+    and (device-width: 425px) 
+    and (device-height: 548px) {
+    .position-auth{
+        top: 40%;
+        left: 54%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 50%;
+        top: 34.5%;
+        left: 54%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media only screen 
+    and (device-width: 425px) 
+    and (device-height: 671px) {
+    
+        .position-auth{
+            top: 40%;
+            left: 54%;
+            height: 29em;
+            margin-top: -9em;
+            margin-left: -13em;
+        }
+
+        .caption-inf {
+            width: 50%;
+            top: 35.5%;
+            left: 54%;
+            height: 2em;
+            margin-top: -9em;
+            margin-left: -13em;
+        }
+
+        .h-m-t-screen-100 {
+            height: 182px !important;
+        }
+    
+        .h-m-t-screen-95 {
+            height: 195px !important;
+        }
+
+        .ChamadoLista-list-1 {
+            width: 300px !important;
+        }
+    
+        .HotKeysWrapper-list-1 {
+            width: 300px !important;
+        }
+}
+
+@media screen 
+  and (device-width: 411px) 
+  and (device-height: 731px) {
+    .position-auth{
+        top: 40%;
+        left: 55.5%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 50%;
+        top: 35.8%;
+        left: 55%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 190px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 195px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media screen 
+  and (device-width: 411px) 
+  and (device-height: 823px) {
+
+    .position-auth{
+        top: 40%;
+        left: 55.5%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 50%;
+        top: 36.2%;
+        left: 55%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 190px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 195px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) {
+
+    .position-auth {
+        top: 40%;
+        left: 63%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 45%;
+        top: 35.5%;
+        left: 63%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 190px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 195px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media only screen 
+    and (device-width: 375px) 
+    and (device-height: 671px) {
+    
+        .position-auth{
+            top: 35.5%;
+            left: 60%;
+            height: 30em;
+            margin-top: -9em;
+            margin-left: -13em;
+        }
+
+        .caption-inf {
+            width: 50%;
+            top: 31%;
+            left: 60%;
+            height: 2em;
+            margin-top: -9em;
+            margin-left: -13em;
+        }
+
+        .h-m-t-screen-100 {
+            height: 182px !important;
+        }
+    
+        .h-m-t-screen-95 {
+            height: 195px !important;
+        }
+
+        .ChamadoLista-list-1 {
+            width: 300px !important;
+        }
+    
+        .HotKeysWrapper-list-1 {
+            width: 300px !important;
+        }
+}
+
+@media screen 
+  and (device-width: 375px) 
+  and (device-height: 667px) {
+    .position-auth{
+        top: 40%;
+        left: 60%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 45%;
+        top: 35.5%;
+        left: 60%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 190px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 195px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media screen 
+  and (device-width: 414px) 
+  and (device-height: 736px) {
+    .position-auth{
+        top: 40%;
+        left: 55%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 45%;
+        top: 35.9%;
+        left: 55%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 185px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 195px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+
+@media screen 
+  and (device-width: 375px) 
+  and (device-height: 812px) {
+    .position-auth{
+        top: 40%;
+        left: 60%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .caption-inf {
+        width: 45%;
+        top: 36.3%;
+        left: 60%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 190px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 195px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media only screen 
+    and (device-width: 320px) 
+    and (device-height: 671px) {
+    
+        .position-auth{
+            top: 35.5%;
+            left: 70%;
+            height: 30em;
+            margin-top: -9em;
+            margin-left: -13em;
+        }
+
+        .caption-inf {
+            width: 50%;
+            top: 31%;
+            left: 70%;
+            height: 2em;
+            margin-top: -9em;
+            margin-left: -13em;
+        }
+
+        .size-img-zaal {
+            height: 65px;
+        }
+
+        .h-m-t-screen-100 {
+            height: 182px !important;
+        }
+    
+        .h-m-t-screen-95 {
+            height: 250px !important;
+        }
+}
+
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 568px) {
+
+    .position-auth{
+        top: 35%;
+        left: 70%;
+        height: 29em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .size-img-zaal {
+        height: 60px !important; 
+    }
+
+    .caption-inf {
+        width: 50%;
+        top: 29.8%;
+        left: 70%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+
+    .h-m-t-screen-100 {
+        height: 190px !important;
+    }
+
+    .h-m-t-screen-95 {
+        height: 230px !important;
+    }
+
+    .ChamadoLista-list-1 {
+        width: 300px !important;
+    }
+
+    .HotKeysWrapper-list-1 {
+        width: 300px !important;
+    }
+}
+
+@media only screen and (max-device-width:480px){
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 100% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        width: 100% !important;
+        margin-top: 10px !important;
+    }
+ }
+
+ /* iPad/Tablet */
+ @media only screen and (device-width:768px){
+    .label-tipo {
+        width: 100% !important;
+    }
+    
+    .select-tipo {
+        width: 60% !important;
+    }
+    
+    .btn-liberacao-tipo {
+        margin-left: 9px !important;
+    }
+
+    .caption-inf {
+        width: 30%;
+        top: 30.5%;
+        left: 50%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+ }
+
+ @media screen 
+    and (device-width: 1024px) 
+    and (device-height: 671px) {
+    .caption-inf {
+        width: 20%;
+        top: 30.5%;
+        left: 50%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+ }
+
+ @media screen 
+  and (device-width: 768px) 
+  and (device-height: 1024px) {
+    .caption-inf {
+        width: 35%;
+        top: 34%;
+        left: 45%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+        border: 1.5px solid;
+    }
+
+    .position-auth {
+        width: 65% !important;
+        left: 45% !important;
+        top: 37% !important;
+        height: 33em !important;
+    }
+
+    .size-img-zaal {
+        height: 110px !important;
+    }
+
+    .h-m-t-screen-100 {
+        height: 130px !important;
+    }
+  }
+
+  @media screen 
+  and (device-width: 1024px) 
+  and (device-height: 1366px) {
+    .caption-inf {
+        width: 20%;
+        top: 32.9%;
+        left: 50%;
+        height: 2em;
+        margin-top: -9em;
+        margin-left: -13em;
+    }
+  }
+  
+
+ .h-m-t-screen-95 {
+    height: 95px; 
+ }
+
+ .h-m-t-screen-100 {
+    height: 100px; 
+ }

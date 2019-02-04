@@ -1,0 +1,6 @@
+/* Remove default checkbox */
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+    position: initial !important;
+    left: initial !important;
+    opacity: 100 !important; }
